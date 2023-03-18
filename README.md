@@ -132,14 +132,13 @@ rspec ./spec --format documentation
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 👥 Author <a id="authors"></a>
+## Author
 
-👤 **Olivier Kango**
+👤 **Elijah Odjegba** <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="20"/>
 
-- GitHub: [@github_olivier](https://github.com/Olivier-Kango)
-- Twitter: [@twitter_olivier](https://twitter.com/olivierkango1)
-- LinkedIn: [@LinkedIn_olivier](https://www.linkedin.com/in/olivier-kango-b990601b8/)
-
+  - GitHub: [![GitHub Badge](https://img.shields.io/badge/-Elijahdre-white?logo=GitHub&logoColor=181717&style=plastic)](https://github.com/Elijahdre)
+  - Twitter: [![Twitter Badge](https://img.shields.io/badge/-kingglijah-white?logo=Twitter&logoColor=1DA1F2&style=plastic)](https://twitter.com/kingglijah)
+  - LinkedIn: [![LinkedIn Badge](https://img.shields.io/badge/-Elijah--Odjegba-white?logo=LinkedIn&logoColor=0A66C2&style=plastic)](https://www.linkedin.com/in/elijah-odjegba)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
